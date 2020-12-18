@@ -50,7 +50,7 @@ body #page input[type="submit"].btn-secondary, body #page input[type="reset"].bt
 }
 
 body {
-	color: #373a3c;
+	color: #878a8c;
 }
 
 a {
@@ -97,4 +97,16 @@ body.pagelayout-mydashboard #page .btn.btn-outline-secondary {
 
 .dropdown-menu {
 	background-color: #404040;
+}
+
+#quiz-time-left {
+	color: #406f9f;
+}
+
+.progress-bar {
+	background-color: #38618a;
+}
+
+body.category-3 a, body.category-116, p, div.card-text.content.calendarwrapper, #nav-drawer-footer #themesettings-control, #nav-drawer-footer #themesettings-control i {
+	color: #406f9f;
 }
